@@ -13,7 +13,7 @@ aside {
   flex-wrap: wrap;
   font-size: 12px;
   @include margin($bottom: 60px);
-  @include layout($start: flex-start, $wrap: wrap, $verticla: flex-start);
+  @include layout($start: flex-start, $wrap: wrap, $vertical: flex-start);
   dl {
     width: 25%;
     dt {
